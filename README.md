@@ -6,7 +6,7 @@ Just a small collection of self designed footprints for KiCad
 
 MIT License
 
-Copyright (c) 2019 Matthias Kleine
+Copyright (c) 2022 Matthias Kleine
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -2,11 +2,18 @@
 
 Just a small collection of self designed footprints for KiCad
 
+## Step files
+
+Some step files are licensed under **License CC BY-ND 4.0**:
+
+- [Wago 243-211 - PartsCommunity / PARTsolutions / CADENAS](https://wago.partcommunity.com/3d-cad-models/sso/243-211-steckverbinder-für-eib-anwendungen-push-wire-anschluss-wago?info=wago%2Fpg07%2Fserie243%2F0243-0211_0999-0962.prj&cwid=3528)
+- [Wago 243-212 - PartsCommunity / PARTsolutions / CADENAS](https://wago.partcommunity.com/3d-cad-models/sso/243-212-steckverbinder-für-eib-anwendungen-push-wire-anschluss-wago?info=wago%2Fpg07%2Fserie243%2F0243-0212_0999-0962.prj&cwid=3528)
+
 ## License
 
 MIT License
 
-Copyright (c) 2023 Matthias Kleine
+Copyright (c) 2024 Matthias Kleine
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

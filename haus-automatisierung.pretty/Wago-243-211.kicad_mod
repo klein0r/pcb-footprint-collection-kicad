@@ -1,5 +1,6 @@
 (footprint "Wago-243-211" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "STEP files are licensed under CC BY-ND 4.0 by PartsCommunity / PARTsolutions / CADENAS")
   (attr through_hole)
   (fp_text reference "REF**" (at 5.842 5.89 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))

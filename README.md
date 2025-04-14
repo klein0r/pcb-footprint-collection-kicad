@@ -13,7 +13,7 @@ Some step files are licensed under **License CC BY-ND 4.0**:
 
 MIT License
 
-Copyright (c) 2024 Matthias Kleine
+Copyright (c) 2025 Matthias Kleine <info@haus-automatisierung.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
